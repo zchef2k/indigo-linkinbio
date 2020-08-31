@@ -10,7 +10,7 @@ description: john's nifty linktreehosted on github pages.
 external-image: false
 picture: assets/images/profile.jpg
 
-url: https://<some url>
+url: https://zchef2k.github.io/indigo-linkinbio
 permalink: /:title/
 
 # To enable google analytics, supply your token below
