@@ -2,6 +2,8 @@
 
 #### Modified from the original for use as a social media link tree.
 
+I created this is an alternative to paid-for link services and to build something I can manage using familiar workflows. Oh, and it doesn't hurt that it's open source. Enjoy. -zd
+
 [Demo](https://zchef2k.github.io/indigo-linkinbio)
 
 ![screen-shot](assets/images/screen-shot.jpg)
