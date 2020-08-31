@@ -2,7 +2,7 @@
 
 #### Modified from the original for use as a social media link tree.
 
-[Demo](https://zchef2k.github.io/indigo-linkinbio-demo)
+[Demo](https://zchef2k.github.io/indigo-linkinbio)
 
 ![screen-shot](assets/images/screen-shot.jpg)
 
