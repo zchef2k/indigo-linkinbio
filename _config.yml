@@ -1,16 +1,16 @@
 # main text of home
-name: John Doe
-bio: a guy with a really unique linktree
+name: AP Surf Clases
+bio: AP es una empresa que nace con la intención de acercar el surf a todos ofreciendo una experiencia única, donde el protagonista sos vos. Contamos con un staff de profesionales en todas las áreas que te van a acompañar en este increíble mundo.  Rodeados de buena gente, buena energía y un servicio que te va a sorprender.
 
 # twitter summary info
-description: john's nifty linktreehosted on github pages.
+description: AP es una empresa que nace con la intención de acercar el surf a todos ofreciendo una experiencia única, donde el protagonista sos vos. Contamos con un staff de profesionales en todas las áreas que te van a acompañar en este increíble mundo.  Rodeados de buena gente, buena energía y un servicio que te va a sorprender.
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://apsurf.com/wp-content/uploads/2022/06/cropped-logo-2022-ap.png
 
-url: https://zchef2k.github.io/indigo-linkinbio
+url: https://vmrodriguez90.github.io/ap-surf
 permalink: /:title/
 
 # To enable google analytics, supply your token below
